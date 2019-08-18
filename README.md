@@ -19,9 +19,9 @@ OCR
 	
 ### Branch strategies
 
-Master: Stable release
-Dev: Developed Features
-Feature-<feature-name>: New Features
+* `master`: Stable release
+* `dev`: Developed Features
+* `feature-<feature-name>`: New Features
 
 ### Who do I talk to? ###
 
