@@ -9,13 +9,12 @@ OCR
 
 ### How do I get set up? ###
 
-* This project mainely built using python and its frameworks
+* This project mainly built using python and its libraries
 * Dependencies:
 	Python
 	Numpy
 	OpenCV
 	Matplotlib
-	MongoDB
 	
 ### Branch strategies
 
