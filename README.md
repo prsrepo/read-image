@@ -16,6 +16,12 @@ OCR
 	OpenCV
 	Matplotlib
 	MongoDB
+	
+### Branch strategies
+
+Master: Stable release
+Dev: Developed Features
+Feature-<feature-name>: New Features
 
 ### Who do I talk to? ###
 
